@@ -4,7 +4,7 @@ void main()
 {
 	int total;
 	printf(" <Mine Sweeper>\n");
-	printf(" ¸Å¼³ÇÒ ÃÑ Áö·ÚÀÇ °³¼ö ÀÔ·Â:");
+	printf(" ë§¤ì„¤í•  ì´ ì§€ë¢°ì˜ ê°œìˆ˜ ì…ë ¥:");
 	scanf_s("%d", &total);
 	playMineSweeper(total);
 }
