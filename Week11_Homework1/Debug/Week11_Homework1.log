@@ -1,0 +1,4 @@
+﻿  MonsterWorldGame.cpp
+C:\Users\WIN\Desktop\Week11_Homework1\Monster.h(45,14): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\WIN\Desktop\Week11_Homework1\MonsterWorldGame.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Week11_Homework1.vcxproj -> C:\Users\WIN\Desktop\Week11_Homework1\Debug\Week11_Homework1.exe
