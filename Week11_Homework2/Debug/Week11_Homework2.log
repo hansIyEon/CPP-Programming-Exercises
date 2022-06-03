@@ -1,0 +1,3 @@
+﻿  실습11장_1번.cpp
+C:\Users\WIN\Desktop\Week11_Homework2\실습11장_1번.cpp(93,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Week11_Homework2.vcxproj -> C:\Users\WIN\Desktop\Week11_Homework2\Debug\Week11_Homework2.exe
